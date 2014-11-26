@@ -17,3 +17,5 @@ distance_rate	.6	codev2	s7			distance rate
 angle_rate	.4	codev2	s11			angle rate
 size_rate	.3	codev2	s2			size rate
 spin_rate	.3	codev2	s6			spin rate
+sphere_rows	.2	codev2	s28			sphere rows
+sphere_cols	.2	codev2	s32			sphere cols
