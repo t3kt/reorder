@@ -11,6 +11,7 @@ sphere_rows	.2	codev2	s28			sphere rows
 sphere_cols	.2	codev2	s32			sphere cols
 point_opacity	.3	codev2	s26		1	point opacity
 thresh_opacity	.9	codev2	s30		1	thresh opacity
+frame_opacity	.5	codev2	s22		1	frame opacity
 point_feedback_scalex	.7	codev2	s10		1	point feedback x scale
 point_feedback_scaley	.7	codev2	s14		1	point feedback y scale
 point_feedback_level	.4	codev2	s18			point feedback level
