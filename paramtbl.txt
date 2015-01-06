@@ -19,3 +19,12 @@ line_feedback_level	.4	codev2	s17			line feedback level
 global_spin_rate	.7	codev2	s8			global spin rate
 thresh_range1	0	codev2	s19		1	thresh range min
 thresh_range2	.4	codev2	s23		1	thresh range max
+frame_color_r	0.1					
+frame_color_g	0.75					
+frame_color_b	1					
+thresh_color1_r	0					
+thresh_color1_g	1					
+thresh_color1_b	0.18					
+thresh_color2_r	0					
+thresh_color2_g	0.185					
+thresh_color2_b	1					
