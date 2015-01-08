@@ -16,6 +16,8 @@ point_feedback_scalex	.7	codev2	s10		1	point feedback x scale
 point_feedback_scaley	.7	codev2	s14		1	point feedback y scale
 point_feedback_level	.4	codev2	s18			point feedback level
 line_feedback_level	.4	codev2	s17			line feedback level
+line_feedback_delay_length	.4	codev2	s1	1	1	line feedback delay length
+line_feedback_delay_level	1	codev2	s5	1	1	line feedback delay level
 global_spin_rate	.7	codev2	s8			global spin rate
 thresh_range1	0	codev2	s19		1	thresh range min
 thresh_range2	.4	codev2	s23		1	thresh range max
