@@ -31,3 +31,5 @@ thresh_color2_r	0
 thresh_color2_g	0					
 thresh_color2_b	0					
 shape	.5	codev2	s15		1	shape
+kaleido_segments	1	codev2	s16	1	1	kaleido segments
+kaleido_on	0	codev2	b16	1	0	kaleido on
