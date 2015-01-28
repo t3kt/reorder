@@ -33,3 +33,6 @@ thresh_color2_b	0
 shape	.5	codev2	s15		1	shape
 kaleido_segments	1	codev2	s16	1	1	kaleido segments
 kaleido_on	0	codev2	b16	1	0	kaleido on
+size_pause	0	codev2	b3	1		size pause
+spin_pause	0	codev2	b7	1		spin pause
+global_spin_pause	0	codev2	b8	1		global spin pause
