@@ -34,3 +34,4 @@ size_pause	0	codev2	b3	1		size pause
 spin_pause	0	codev2	b7	1		spin pause
 global_spin_pause	0	codev2	b8	1		global spin pause
 line_feedback_on	1	codev2	b17	1		line feedback on
+alternate_spins	0	codev2	b35	1		alternate spins
