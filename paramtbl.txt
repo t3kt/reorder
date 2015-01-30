@@ -35,3 +35,6 @@ spin_pause	0	codev2	b7	1		spin pause
 global_spin_pause	0	codev2	b8	1		global spin pause
 line_feedback_on	1	codev2	b17	1		line feedback on
 alternate_spins	0	codev2	b35	1		alternate spins
+kaleido_shift_x	.5			1	1	kaleido shift x
+kaleido_shift_y	.5	codev2	s12	1	1	kaleido shift y
+kaleido_post_offset	.5	codev2	s24	1	1	kaleido post offset
