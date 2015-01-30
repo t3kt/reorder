@@ -4,7 +4,7 @@ post_bloom_distance	0	codev2	s13	1	1	bloom distance
 post_bypass	0			1		post bypass
 time_rate	.5	codev2	s4			time rate
 size_rate	.3	codev2	s3			size rate
-spin_rate	.3	codev2	s7			spin rate
+spin_rate	.3	codev2	s31			spin rate
 twist_rate	.5	codev2	s2			twist rate
 twist_amount	.3	codev2	s6		1	twist amount
 sphere_rows	.2	codev2	s28			sphere rows
