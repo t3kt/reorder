@@ -1,23 +1,23 @@
 name	default	mididev	midictl	global	smooth	label
-post_bloom_amount	0	codev2	s9	1	1	bloom
-post_bloom_distance	0	codev2	s13	1	1	bloom distance
+post_bloom_amount	0	bcr2000	s9	1	1	bloom
+post_bloom_distance	0	bcr2000	s13	1	1	bloom distance
 post_bypass	0			1		post bypass
-time_rate	.5	codev2	s4			time rate
-size_rate	.3	codev2	s3			size rate
-spin_rate	.3	codev2	s31			spin rate
-twist_rate	.5	codev2	s2			twist rate
-twist_amount	.3	codev2	s6		1	twist amount
-sphere_rows	.2	codev2	s28			sphere rows
-sphere_cols	.2	codev2	s32			sphere cols
-point_opacity	.3	codev2	s26		1	point opacity
-thresh_opacity	.9	codev2	s30		1	thresh opacity
-frame_opacity	.5	codev2	s22		1	frame opacity
-line_feedback_level	.4	codev2	s17			line feedback level
-line_feedback_delay_length	.4	codev2	s1	1	1	line feedback delay length
-line_feedback_delay_level	1	codev2	s5	1	1	line feedback delay level
-global_spin_rate	.7	codev2	s8			global spin rate
-thresh_range1	0	codev2	s19		1	thresh range min
-thresh_range2	.4	codev2	s23		1	thresh range max
+time_rate	.5	bcr2000	s25			time rate
+size_rate	.3	bcr2000	s17			size rate
+spin_rate	.3	bcr2000	s18			spin rate
+twist_rate	.5	bcr2000	s9			twist rate
+twist_amount	.3	bcr2000	s10		1	twist amount
+sphere_rows	.2	bcr2000	s31			sphere rows
+sphere_cols	.2	bcr2000	s32			sphere cols
+point_opacity	.3	bcr2000	s15		1	point opacity
+thresh_opacity	.9	bcr2000	s16		1	thresh opacity
+frame_opacity	.5	bcr2000	s14		1	frame opacity
+line_feedback_level	.4	bcr2000	s5			line feedback level
+line_feedback_delay_length	.4	bcr2000	s1	1	1	line feedback delay length
+line_feedback_delay_level	1	bcr2000	s2	1	1	line feedback delay level
+global_spin_rate	.7	bcr2000	s26			global spin rate
+thresh_range1	0	bcr2000	s21		1	thresh range min
+thresh_range2	.4	bcr2000	s22		1	thresh range max
 frame_color_r	0					
 frame_color_g	0					
 frame_color_b	0					
@@ -27,14 +27,14 @@ thresh_color1_b	0
 thresh_color2_r	0					
 thresh_color2_g	0					
 thresh_color2_b	0					
-shape	.5	codev2	s15		1	shape
-kaleido_segments	1	codev2	s16	1		kaleido segments
-kaleido_on	0	codev2	b16	1	0	kaleido on
-size_pause	0	codev2	b3	1		size pause
-spin_pause	0	codev2	b7	1		spin pause
-global_spin_pause	0	codev2	b8	1		global spin pause
-line_feedback_on	1	codev2	b17	1		line feedback on
-alternate_spins	0	codev2	b35	1		alternate spins
+shape	.5	bcr2000	s20		1	shape
+kaleido_segments	1	bcr2000	s8	1		kaleido segments
+kaleido_on	0	bcr2000	b24	1	0	kaleido on
+size_pause	0	bcr2000	b1	1		size pause
+spin_pause	0	bcr2000	b2	1		spin pause
+global_spin_pause	0	bcr2000	b3	1		global spin pause
+line_feedback_on	1	bcr2000	b21	1		line feedback on
+alternate_spins	0	bcr2000	b9	1		alternate spins
 kaleido_shift_x	.5			1	1	kaleido shift x
-kaleido_shift_y	.5	codev2	s12	1	1	kaleido shift y
-kaleido_post_offset	.5	codev2	s24	1	1	kaleido post offset
+kaleido_shift_y	.5	bcr2000	s7	1	1	kaleido shift y
+kaleido_post_offset	.5	bcr2000	s6	1	1	kaleido post offset
