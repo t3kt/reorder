@@ -1,6 +1,6 @@
 name	default	mididev	midictl	global	smooth	label
-post_bloom_amount	0	bcr2000	s9	1	1	bloom
-post_bloom_distance	0	bcr2000	s13	1	1	bloom distance
+post_bloom_amount	0	bcr2000	s2	1	1	bloom
+post_bloom_distance	0	bcr2000	s3	1	1	bloom distance
 post_bypass	0			1		post bypass
 time_rate	.5	bcr2000	s25			time rate
 size_rate	.3	bcr2000	s17			size rate

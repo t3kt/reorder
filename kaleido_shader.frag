@@ -16,8 +16,8 @@ vec2 mapPosition(vec2 uv, float segs, vec2 offs, vec2 t) {
 layout(location=0) out vec4 fragColor;
 void main() {
 	vec2 uv = vUV.st;
-	if (segments.y > 0)
-		uv = mapPosition(uv, segments.x, offsets.xy, translate.xy);
+	if (segments.x > 0)
+		uv = mapPosition(uv, segments.y, offsets.xy, translate.xy);
 	if (segments.z > 0)
 		uv = mapPosition(uv, segments.w, offsets.zw, translate.zw);
 	fragColor = texture(sTD2DInputs[0], uv);
